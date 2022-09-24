@@ -120,8 +120,8 @@ section form select:hover{
     border-radius: 20px;
     margin: 20px;
     padding: 20px;
-    box-shadow: -12px 15px 12px -1px rgba(110,110,110,0.6);
-        -webkit-box-shadow: -12px 15px 12px -1px rgba(110,110,110,0.6);
+    box-shadow: -12px 15px 12px -1px rgba(110, 110, 110, 0.816);
+        -webkit-box-shadow: -12px 15px 12px -1px rgba(138, 34, 34, 0.6);
         -moz-box-shadow: -12px 15px 12px -1px rgba(110,110,110,0.6);
 }
 
@@ -139,6 +139,39 @@ section form select:hover{
     margin: 30px;
     font-size: 15px;
     color: white;
+}
+
+.Formulario {
+    padding-left: 7rem;
+    padding-right: 7rem;
+}
+
+.sombra2{
+    background-image: linear-gradient(to top,#918C8B  0%,white  100%);
+    margin: 7rem;
+    padding: 1rem;
+    box-shadow: -20px 14px 53px -2px rgba(110,110,110,0.43);
+    -webkit-box-shadow: -20px 14px 53px -2px rgba(110,110,110,0.43);
+    -moz-box-shadow: -20px 14px 53px -2px rgba(110,110,110,0.43);
+    border-radius: 2rem;
+}
+
+.sombra2 h2{
+    text-align: center;
+}
+
+.sombra2 form{
+    margin: 10px;
+    padding: 10px;
+}
+
+.sombra2 form div{
+    margin: 5px;
+}
+
+.sombra2 legend{
+    margin: 5px;
+    text-align: center;
 }
 
 footer .izquierda{
