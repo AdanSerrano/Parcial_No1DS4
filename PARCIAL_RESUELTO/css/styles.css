@@ -244,47 +244,17 @@ section form select:hover{
     text-align: center;
 }
 
-footer .izquierda{
+.products{
+    height: 180px;
+    width: 200px;
+}
+
+footer{
     background-color: black;
-    padding: 20rem;
+    padding: 20px;
+    text-align: center;
 }
 
-
-
-
-
-/*
-
-.nav_bg{
-    background-color: black;
-    height: 100%;
-    width: 100%;
-}
-
-.navegacion_principal{
+footer  h1{
     color: white;
-   
-    font-size: 1.5rem;
-    text-decoration: none;
-    text-transform:uppercase;
-    font-weight: bold;
-    width: 100%;
-    text-align: start;
-    bottom: 25px;
-} 
-
-.navegacion_principal a{
-    color: white;
-    display: block;
-    justify-content: flex-start;
-    text-decoration: none;
-    font-size: .7em;
-    font-weight: 1000;
-    padding: 6px;
-}
-
-.navegacion_principal a:hover {
-        background-color: white ;
-        color: black;
-        padding: auto;
 }
